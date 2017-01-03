@@ -2,5 +2,5 @@
 #Title: Evaluation_20170103
 #Date: 03 01 2017
 #Language: PHP
-#Description: (empty)
+#Description: création du dossier resultat et du style.css
 
